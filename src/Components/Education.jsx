@@ -7,6 +7,7 @@ const Education = () => {
       <h1>Education</h1>
       <p>🚧 Under construction 🚧</p>
     </div>
+    </section>
   );
 }
 
